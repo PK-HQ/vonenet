@@ -5,6 +5,8 @@ import numpy as np
 import tqdm
 import fire
 
+#test comment
+
 parser = argparse.ArgumentParser(description='ImageNet Training')
 ## General parameters
 parser.add_argument('--in_path', required=True,
